@@ -1,5 +1,5 @@
 
-# Shop Robbery Script for FiveM
+# Shop Robbery Script for FiveM -- QBCore
 
 This script is a simple shop robbery script created by SeriumTW. It is provided for free, as there is a lack of decent shop robbery scripts available.
 
